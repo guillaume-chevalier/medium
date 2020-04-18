@@ -1,2 +1,1 @@
-# medium
-Contains all the code I use to write medium article.
+This moved here: https://github.com/guillaume-chevalier/LinkedIn-Connections-Analysis
